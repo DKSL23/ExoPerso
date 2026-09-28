@@ -1,18 +1,18 @@
 h1 {
-    front-size: 50px;
+    font-size: 50px;
     color: red;
-    front-weight: bold;
-    front-family: calibri;
+    font-weight: bold;
+    font-family: calibri;
 }
 h2 {
-    front-size: 30px;
+    font-size: 30px;
     color: green;
-    front-weight: normal;
-    front-family: calibri;
+    font-weight: normal;
+    font-family: calibri;
 }
 p  {
-    front-size: 20px;
+    font-size: 20px;
     color: blue;
-    front-weight: normal;
-    front-family: calibri;
+    font-weight: normal;
+    font-family: calibri;
 }
