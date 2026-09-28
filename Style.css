@@ -1,0 +1,18 @@
+h1 {
+    front-size: 50px;
+    color: red;
+    front-weight: bold;
+    front-family: calibri;
+}
+h2 {
+    front-size: 30px;
+    color: green;
+    front-weight: normal;
+    front-family: calibri;
+}
+p  {
+    front-size: 20px;
+    color: blue;
+    front-weight: normal;
+    front-family: calibri;
+}
