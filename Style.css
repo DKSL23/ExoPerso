@@ -16,3 +16,13 @@ p  {
     font-weight: normal;
     font-family: calibri;
 }
+header {
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+} <!-- la balise <header> permet de définir l'en-tête d'une page web -->
+base {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+} <!-- la balise <base> permet de définir l'URL de base pour les liens relatifs sur une page web -->
